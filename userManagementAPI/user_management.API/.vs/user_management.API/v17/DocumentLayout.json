@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\dto\\edituserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\implementation\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\implementation\\permissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\domain\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\domain\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\dto\\userpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\dto\\userpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\dto\\getusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\dto\\getusersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\wrapper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\wrapper\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\modals\\domain\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\modals\\domain\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\implementation\\userpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\implementation\\userpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\interface\\iuserpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\interface\\iuserpermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\interface\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\interface\\ipermissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|c:\\users\\thani\\onedrive\\documents\\university\\internship_gofive\\assignment\\user_management_api\\user_management.api\\user_management.api\\repositories\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3656539D-FC9C-4FC9-9385-044D24770D6F}|user_management.API\\user_management.API.csproj|solutionrelative:user_management.api\\repositories\\implementation\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "user_management.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAUwMIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:56:13.361Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\PermissionRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Implementation\\PermissionRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\PermissionRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Implementation\\PermissionRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:01:21.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissionsController.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Controllers\\PermissionsController.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Controllers\\PermissionsController.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Controllers\\PermissionsController.cs",
+              "RelativeToolTip": "user_management.API\\Controllers\\PermissionsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T05:01:14.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserPermissionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\UserPermissionDTO.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\DTO\\UserPermissionDTO.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\UserPermissionDTO.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\DTO\\UserPermissionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T04:50:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\EditUserDTO.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\DTO\\EditUserDTO.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\EditUserDTO.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\DTO\\EditUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:32:21.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\appsettings.json",
+              "RelativeDocumentMoniker": "user_management.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\appsettings.json",
+              "RelativeToolTip": "user_management.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T12:31:41.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserPermission.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\UserPermission.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\Domain\\UserPermission.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\UserPermission.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\Domain\\UserPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:23:48.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\DTO\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\AddUserDTO.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\DTO\\AddUserDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T07:47:50.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Implementation\\UserRepository.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAADwvy0AAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:23:52.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IUserPermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IUserPermissionRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Interface\\IUserPermissionRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IUserPermissionRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Interface\\IUserPermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:26:56.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Interface\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Interface\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:22:28.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\GetUsersDTO.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\DTO\\GetUsersDTO.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\DTO\\GetUsersDTO.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\DTO\\GetUsersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T02:00:11.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Users.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\Domain\\Users.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Users.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\Domain\\Users.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:09:13.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IPermissionRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Interface\\IPermissionRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Interface\\IPermissionRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Interface\\IPermissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:37:38.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserPermissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\UserPermissionRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Implementation\\UserPermissionRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\UserPermissionRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Implementation\\UserPermissionRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:14:14.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Repositories\\Implementation\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Repositories\\Implementation\\RoleRepository.cs",
+              "RelativeToolTip": "user_management.API\\Repositories\\Implementation\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T08:38:46.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Roles.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\Domain\\Roles.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Roles.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\Domain\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:09:53.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Permissions.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\Domain\\Permissions.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Domain\\Permissions.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\Domain\\Permissions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T10:09:56.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Wrapper\\Response.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Modals\\Wrapper\\Response.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Modals\\Wrapper\\Response.cs",
+              "RelativeToolTip": "user_management.API\\Modals\\Wrapper\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:38:46.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Program.cs",
+              "RelativeDocumentMoniker": "user_management.API\\Program.cs",
+              "ToolTip": "C:\\Users\\thani\\OneDrive\\Documents\\university\\Internship_gofive\\assignment\\user_management_api\\user_management.API\\user_management.API\\Program.cs",
+              "RelativeToolTip": "user_management.API\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:17:21.51Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
