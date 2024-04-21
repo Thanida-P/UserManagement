@@ -1,0 +1,56 @@
+.sidebar {
+    width: 20%;
+    height: 100%;
+    position: fixed;
+    display: block;
+    margin: 0;
+    background-color: white;
+}
+
+.menu {
+    font-family: sans-serif;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    font-size: 16px;
+    width: 100%;
+    color: #8b8b8b;
+    box-sizing: border-box;
+}
+
+.menu:hover {
+    background-color: rgb(235, 235, 235);
+}
+
+#logo {
+    font-family: sans-serif;
+    margin: 0;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    padding-left: 10%;
+    font-size: 20px;
+}
+
+.icon {
+    vertical-align: middle;
+}
+
+.menu2 {
+    margin-top: 15%;
+}
+
+.container {
+    margin: 0;
+    width: 80%;
+    min-height: 100%;
+    height: fit-content;
+    padding: 0;
+    display: block;
+    background-color: #F5F5F5;
+    float: right;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}

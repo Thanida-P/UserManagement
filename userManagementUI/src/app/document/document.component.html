@@ -1,0 +1,272 @@
+<div class = "pt-4 pb-4 ps-4 header">
+    <div class="d-flex">
+        <div class="col-md-8">
+            <h1 class="greetings m-0"><b>Hello, {{firstname}}</b></h1>
+            <p class = "title m-0">Have a nice day</p>
+        </div>
+        <div class="col-md-1 border_line d-flex justify-content-end align-items-center">
+            <a><img src="assets/images/notifications.png" alt="Notifications"></a>
+        </div>
+        <div class="col-md-3 dropdown">
+            <a class="btn btn-secondary dropdown_css d-flex" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <div class="profile">
+                    <img src="assets/images/profile.png" alt="Profile Picture">
+                </div>
+                <div class="details">
+                    <p class="name">{{name}}</p>
+                    <p class="position">{{user_position}}</p>
+                </div>
+                <div class="arrow">
+                    <img src="assets/images/arrow.png" alt="Arrow">
+                </div>
+            </a>
+            <ul class="dropdown-menu w-100">
+                <li><a class="dropdown-item" href="">logout</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="px-4 page_title_container">
+    <h2 class="page_title m-0"><b>Documents</b></h2>
+</div>
+<div class="ps-3 mt-3 d-flex page_tools">
+    <div class=" has-search col-md-10 search_bar">
+        <span class="bi bi-search form-control-feedback"></span>
+        <input type="text" class="form-control" placeholder="Search">
+    </div>
+    <div class="col-md-1 ps-3">
+        <a class="d-flex align-items-center pt-2 text-decoration-none">
+            <p class= "m-0 sort_by">Sort by</p>
+            <img src="assets/images/chevron-down.png" alt="Sort">
+        </a>
+    </div>
+    <div class="slider">
+        <a class="d-flex align-items-center">
+            <img src="assets/images/slider.png">
+        </a>
+    </div>
+</div>
+<div class="menu d-flex">
+    <div class="mt-3 ms-3 pe-2">
+        <button class="btn btn-primary menu_icon rounded-1"><img src="/assets/images/connection.png" alt="connection"></button>
+        <button class="btn btn-primary menu_icon ms-3 rounded-1"><img src="/assets/images/expand.png" alt="expand"></button>
+        <button class="btn btn-primary menu_icon ms-3 rounded-1"><img src="/assets/images/book.png" alt="book"></button>
+        <button class="btn btn-primary menu_icon ms-3 rounded-1"><img src="/assets/images/print.png" alt="print"></button>
+        <button class="btn btn-primary menu_icon ms-3 rounded-1"><img src="/assets/images/delete2.png" alt="delete"></button>
+    </div>
+    <div class="mt-3 month">
+        <select class="form-select month_select rounded-0">
+            <option selected>This Month</option>
+        </select>
+    </div>
+    <div class="mt-3 ps-3 item_type">
+        <select class="form-select item_select rounded-0">
+            <option selected>This Month</option>
+        </select>
+    </div>
+    <div class="mt-3 ps-3">
+        <button class="btn btn-primary rounded-1 px-3">+</button>
+    </div>
+</div>
+<div class="rounded-4 table_container">
+    <div class="pb-3 px-3 pt-2">
+        <p class="list_title m-0"><b>Lists of documents</b></p>
+        <p class="list_subtitle m-0">Lorem ipsum lorem uojuhn</p>
+    </div>
+     <table class="table mb-0 bg-white">
+        <tbody>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+            <tr>
+                <td class="border-top col-md-1">
+                    <div>
+                        <img src="/assets/images/document.png" alt="document">
+                    </div>
+                </td>
+                <td class="border-top col-md-1">
+                    <div>
+                        <p class="m-0 doc_name">Lorem ipsum</p>
+                        <p class="m-0 doc_date">April 9, 2022</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-4">
+                    <div>
+                        <p class="m-0 doc_summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+                                                    sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    </div>
+                </td>
+                <td class="border-top col-md-6">
+                    <div class="justify-content-end d-flex">
+                        <button class="btn btn-primary rounded-1 option_icons"><img src="/assets/images/edit2.png" alt="edit"></button>
+                        <button class="btn btn-primary rounded-1 ms-3 option_icons"><img src="/assets/images/delete2.png" alt="edit"></button>
+                    </div>
+            </tr>
+        </tbody>
+    </table>
+</div>

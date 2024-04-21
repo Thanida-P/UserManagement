@@ -1,0 +1,51 @@
+<div class="sidebar">
+    <div>
+        <div><p id="logo"><b>{{logo}}</b></p></div>
+        <a routerLink="/menus/dashboard">
+            <div id = "dashboard" class = "menu">
+                <img cImg class = "icon" src="assets/images/{{dashboard_icon}}.png" alt="Dashboard" width="20" height="20"/>&emsp;Dashboard
+            </div>
+        </a>
+        <a routerLink="/menus/users">
+            <div class = "menu" id = "users">
+                <img cImg class = "icon" src="assets/images/users.png" alt="Users" width="20" height="20"/>&emsp;Users
+            </div>
+        </a>
+        <a routerLink="/menus/document">
+            <div class = "menu" id = "document">
+                <img cImg class = "icon" src="assets/images/{{document_icon}}.png" alt="Documents" width="20" height="20"/>&emsp;Documents
+            </div>
+        </a>
+        <a routerLink="/menus/photos" >
+            <div class = "menu" id = "photos">
+                <img cImg class = "icon" src="assets/images/photos.png" alt="Photos" width="20" height="20"/>&emsp;Photos
+            </div>
+        </a>
+        <a routerLink="/menus/hierarchy">
+            <div class = "menu" id = "hierarchy">
+                <img cImg class = "icon" src="assets/images/hierarchy.png" alt="Hierarchy" width="20" height="20"/>&emsp;Hierarchy
+            </div>
+        </a>
+    </div>
+    <div class = "menu2">
+         <a routerLink="/menus/message">
+            <div class = "menu" id = "message">
+                <img cImg class = "icon" src="assets/images/message.png" alt="Message" width="20" height="20"/>&emsp;Message
+            </div>
+        </a>
+        <a routerLink="/menus/help">
+            <div class = "menu" id = "help">
+                <img cImg class = "icon" src="assets/images/help.png" alt="Help" width="20" height="20"/>&emsp;Help
+            </div>
+        </a>
+        <a routerLink="/setting">
+            <div class = "menu" id = "setting">
+                <img cImg class = "icon" src="assets/images/setting.png" alt="Setting" width="20" height="20"/>&emsp;Setting
+            </div>
+        </a>
+    </div>
+</div>
+
+<div class="container">
+    <router-outlet></router-outlet>
+</div>

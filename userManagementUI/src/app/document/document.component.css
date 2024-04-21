@@ -1,0 +1,145 @@
+.header, .page_title_container, .page_tools, .menu, .table_container {
+    box-sizing: border-box;
+}
+
+.title {
+    font-size: 14px;
+    color: #757575;
+}
+
+.border_line {
+    width: 10%;
+    border-right: 1px solid #C2C2C2;
+    padding-right: 2%;
+}
+
+.dropdown {
+    width: 23%;
+}
+
+.dropdown_css {
+    background-color: #F5F5F5;
+    color: black;
+    border: none;
+}
+
+.dropdown_css:hover {
+    background-color: #F5F5F5;
+    color: black;
+}
+
+.profile {
+    padding-left: 5%;
+}
+
+.details {
+    padding-left: 5%;
+}
+
+.arrow {
+    padding-left: 10%;
+}
+
+.name {
+    font-size: 16px;
+    margin: 0;
+}
+
+.position {
+    font-size: 12px;
+    margin: 0;
+}
+
+.page_title {
+    font-size: 24px;
+    color: #4A85F6;
+}
+
+.search_bar {
+    width: 87%;
+}
+
+.sort_by {
+    font-size: 17px;
+    color: black;
+    padding-right: 3%;
+}
+
+.slider {
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.menu_icon {
+    background: none;
+    border: 1px solid #DDDFE1;
+}
+
+.month {
+    padding-left: 27%;
+    width: 45%;
+}
+
+.month_select, .item_select {
+    width: 100%;
+    background-color: #F5F5F5; 
+}
+
+.item_type {
+    width: 20%;
+}
+
+.table_container {
+    background-color: white;
+    margin: 2%;
+    margin-top: 3%;
+    height: fit-content;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.list_title {
+    font-size: 16px;
+    color: #222B45;
+}
+
+.list_subtitle {
+    font-size: 12px;
+    color: #464E5F;
+}
+
+.doc_name {
+    font-size: 13px;
+    color: #222B45;
+}
+
+.doc_date {
+    font-size: 12px;
+    color: rgba(70, 78, 95, 0.4);
+}
+
+.doc_summary {
+    font-size: 12px;
+    color: rgba(70, 78, 95, 0.4);
+}
+
+.option_icons {
+    background-color: white;
+    border-color: #DDDFE1;
+}
